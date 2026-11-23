@@ -11,3 +11,9 @@ Email               : parthiv.bhandary@bcah.christuniversity.in
 Father's Name       : Mr. Bhandary
 Mother's Name       : Mrs. Bhandary
 Parent Contact      : 9876500000
+
+--- Academic Details ---
+Programme           : Bachelor of Computer Applications (Honours)
+Department          : Computer Science
+University          : Christ (Deemed to be University)
+Course              : BCA513-8 DevOps and Automation Framework
