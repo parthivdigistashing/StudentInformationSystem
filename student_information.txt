@@ -1,0 +1,8 @@
+===== STUDENT INFORMATION SYSTEM =====
+
+--- Personal Details ---
+Name                : Parthiv Bhandary
+Register Number     : 2341650
+Date of Birth       : 01-01-2005
+Mobile Number       : 9876543210
+Email               : parthiv.bhandary@bcah.christuniversity.in
