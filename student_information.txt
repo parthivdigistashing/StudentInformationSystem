@@ -6,3 +6,8 @@ Register Number     : 2341650
 Date of Birth       : 01-01-2005
 Mobile Number       : 9876543210
 Email               : parthiv.bhandary@bcah.christuniversity.in
+
+--- Parents Details ---
+Father's Name       : Mr. Bhandary
+Mother's Name       : Mrs. Bhandary
+Parent Contact      : 9876500000
